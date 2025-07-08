@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/metr-mcp-reward-hack-badge.png)](https://mseep.ai/app/metr-mcp-reward-hack)
+
 # Quickstart
 
 1. git clone
